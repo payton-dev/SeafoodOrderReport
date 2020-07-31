@@ -1,7 +1,7 @@
 # SeafoodOrderReport
 Included CSV require updating in the future based on new codes/customers
   
-  -Need to add auto location in next build
+ *Need to add auto location in next build*
 
 Py and Notebook included
 
