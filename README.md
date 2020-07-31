@@ -1,5 +1,5 @@
 # SeafoodOrderReport
-CSV require updating based on new codes/customers
+included CSV require updating in the future based on new codes/customers
 
 Py and Notebook included
 
